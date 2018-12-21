@@ -22,7 +22,9 @@ ScrewCode利用Travis CI实现了自动判题系统，你可以通过提交Pull 
 
 ### Fork本项目 
 
-点击本项目首页右上角的`Fork`按钮，稍等。现在，GitHub应该为你创建了`github.com/<你的GitHub用户名>/SumOfTwoIntegers`。你需要将它Clone到你本地。
+点击本项目首页右上角的`Fork`按钮，稍等。
+
+现在，GitHub应该为你创建了`github.com/<你的GitHub用户名>/SumOfTwoIntegers`。你需要将它Clone到你本地。
 
 ### 将Fork的项目Clone到本地
 
@@ -52,6 +54,12 @@ ScrewCode利用Travis CI实现了自动判题系统，你可以通过提交Pull 
 刚Clone下来的项目一般是默认的`master`分支。如果题目说自己在其他分支上，你可以通过IDEA右下角来切换分支：
 
 ![1](https://raw.githubusercontent.com/screwcode/SumOfTwoIntegers/master/images/git-branch.png)
+
+### 设置JDK
+
+如果你是第一次使用，IDEA可能会抱怨Project SDK没有设置。这个时候你需要在`File` - `Project Structure`或者`File` - `Project Settings`里面，设置Project SDK为你的JDK安装目录，如图所示：
+
+![1](https://raw.githubusercontent.com/screwcode/SumOfTwoIntegers/master/images/set-jdk.png)
 
 ### Maven同步
 
