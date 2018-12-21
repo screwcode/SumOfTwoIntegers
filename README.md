@@ -54,7 +54,9 @@ ScrewCode利用Travis CI实现了自动判题系统，你可以通过提交Pull 
 
 ![1](https://raw.githubusercontent.com/screwcode/SumOfTwoIntegers/master/images/clone.png)
 
-一路选Yes/Next即可。如果看到以下窗口，如果你不知道要选择什么，那就按照图中所示选择Maven：
+一路选Yes/Next即可。在任何时候，看到弹出窗口，请先仔细阅读一下英文。如果无法理解，请选择"默认按钮"，如Yes/Next等。
+
+如果看到以下窗口，如果你不知道要选择什么，那就按照图中所示选择Maven：
 
 ![1](https://raw.githubusercontent.com/screwcode/SumOfTwoIntegers/master/images/import.png)
 
